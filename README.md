@@ -40,6 +40,7 @@ All the resources listed are community-driven: we cannot offer support but sugge
 
 * [showy-quota (⭐15)](https://github.com/enieuwy/showy-quota) a standalone WASM status bar plugin showing live AI coding-plan quotas (Codex, Claude, Copilot, Gemini…), driven by CodexBar
 * [zellaude (⭐102)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
+* [zellij-ai-stats](https://github.com/ericviana/zellij-ai-stats) a themed powerline bar showing weekly quota usage and reset times for Claude Code and Codex, plus how many agent sessions are running
 * [zellij-cb (⭐50)](https://github.com/ndavd/zellij-cb) a customizable compact bar for Zellij
 * [zellij-datetime (⭐52)](https://github.com/h1romas4/zellij-datetime) adds a date and time pane to your Zellij
 * [zellij-load (⭐10)](https://github.com/Christian-Prather/zellij-load) show system resources such as CPU, memory and GPU usage. Similar to [tmux cpu-usage](https://github.com/dracula/tmux/blob/master/docs/CONFIG.md#cpu-usage---up)
