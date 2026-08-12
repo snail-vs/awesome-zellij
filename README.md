@@ -1,4 +1,4 @@
-# Awesome [Zellij (⭐34k)](https://github.com/zellij-org/zellij)
+# Awesome [Zellij](https://github.com/zellij-org/zellij)
 
 A list of resources for Zellij workspace: plugins, tutorials and configuration settings.
 
@@ -105,11 +105,11 @@ All the resources listed are community-driven: we cannot offer support but sugge
 # Integrations
 
 * [fzf-zellij (⭐15)](https://github.com/k-kuroguro/fzf-zellij) Shell script to start fzf in a Zellij floating pane.
-* [theylix](https://codeberg.org/hobgoblina/theylix) Zellij, Helix, and various cli tools ([Yazi (⭐41k)](https://github.com/sxyazi/yazi), [Lazygit (⭐81k)](https://github.com/jesseduffield/lazygit), [LazySQL (⭐4.2k)](https://github.com/jorgerojas26/lazysql), [Slumber (⭐1.2k)](https://github.com/LucasPickering/slumber), [Serpl (⭐856)](https://github.com/yassinebridi/serpl), `git blame` via [Tig (⭐13k)](https://github.com/jonas/tig)) as a zen-mode IDE
+* [theylix](https://codeberg.org/hobgoblina/theylix) Zellij, Helix, and various cli tools ([Yazi](https://github.com/sxyazi/yazi), [Lazygit](https://github.com/jesseduffield/lazygit), [LazySQL](https://github.com/jorgerojas26/lazysql), [Slumber](https://github.com/LucasPickering/slumber), [Serpl](https://github.com/yassinebridi/serpl), `git blame` via [Tig](https://github.com/jonas/tig)) as a zen-mode IDE
 * [yazelix (⭐1.1k)](https://github.com/luccahuguet/yazelix) zellij, yazi and nushell adding a File Tree to Helix & helix-friendly keybindigs for zellij!
 * [zeco (⭐75)](https://github.com/julianbuettner/zeco) Share your zellij session over the internet, easy and secure!
 * [zellij-sessionizer (⭐48)](https://github.com/victor-falcon/zellij-sessionizer) A fuzzy finder-powered project switcher for Zellij sessions, inspired by [ThePrimeagen/tmux-sessionizer (⭐455)](https://github.com/ThePrimeagen/tmux-sessionizer)
-* [zellij-urlview (⭐1)](https://github.com/VV0JC13CH/zellij-urlview) Quickly open displayed url(s)! Inspired by [tmux-urlview (⭐290)](https://github.com/tmux-plugins/tmux-urlview)
+* [zellij-urlview (⭐1)](https://github.com/VV0JC13CH/zellij-urlview) Quickly open displayed url(s)! Inspired by [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview)
 * [zellix (⭐50)](https://github.com/TheEmeraldBee/zellix) A nushell wrapper over helix that leverages the power of zellij to turn it into a plugin system!
 * [zide (⭐334)](https://github.com/josephschmitt/zide) Zellij layouts + bash scripts to create an IDE-like file picker and editor workflow that works in any shell and with most any visual file pickers!
 * [zrw (⭐4)](https://github.com/ivoronin/zrw) run commands in Zellij panes, wait for completion, and propagate exit codes
