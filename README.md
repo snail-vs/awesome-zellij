@@ -87,7 +87,7 @@ All the resources listed are community-driven: we cannot offer support but sugge
 * [zellaude (⭐105)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
 * [zj-agents (⭐2)](https://github.com/kaankoken/zj-agents) background engine + floating sidebar: classify coding-agent panes (Idle/Working/Blocked/Done) from process + viewport manifests, desktop notifications; Claude, Codex, Grok, Pi, OMP
 * [zj-radar (⭐18)](https://github.com/marktoda/zj-radar) a pinned sidebar showing which AI agents (Claude Code, Codex) are working, done, or waiting for you across all tabs, with click-to-jump
-
+* [zellij-ai-session](https://github.com/snail-vs/zellij-ai-session) - Find, search and resume AI coding sessions (Codex, Claude Code, OpenCode etc.) by project directly inside Zellij.
 
 ## External Tools
 
