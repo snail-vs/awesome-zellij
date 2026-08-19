@@ -87,6 +87,7 @@ All the resources listed are community-driven: we cannot offer support but sugge
 * [opencode-zellij-namer (⭐65)](https://github.com/24601/opencode-zellij-namer) AI-powered dynamic session naming for [OpenCode](https://opencode.ai), automatically renames sessions based on project context
 * [zellaude (⭐105)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
 * [zj-agents (⭐2)](https://github.com/kaankoken/zj-agents) background engine + floating sidebar: classify coding-agent panes (Idle/Working/Blocked/Done) from process + viewport manifests, desktop notifications; Claude, Codex, Grok, Pi, OMP
+* [zj-agent-mob](https://github.com/mohseenrm/zj-agent-mob) a floating panel tracking Claude Code and Codex agents across every session: live status, current task, jump-to-pane across sessions, approve/reject permission prompts, and kill runaways
 * [zj-radar (⭐18)](https://github.com/marktoda/zj-radar) a pinned sidebar showing which AI agents (Claude Code, Codex) are working, done, or waiting for you across all tabs, with click-to-jump
 
 ## External Tools
