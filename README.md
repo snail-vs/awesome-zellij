@@ -38,15 +38,12 @@ All the resources listed are community-driven: we cannot offer support but sugge
 
 ## Status Bar
 
-* [showy-quota (⭐12)](https://github.com/enieuwy/showy-quota) a standalone WASM status bar plugin showing live AI coding-plan quotas (Codex, Claude, Copilot, Gemini…), driven by CodexBar
-* [zellaude (⭐97)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
 * [zellij-cb (⭐49)](https://github.com/ndavd/zellij-cb) a customizable compact bar for Zellij
 * [zellij-datetime (⭐51)](https://github.com/h1romas4/zellij-datetime) adds a date and time pane to your Zellij
 * [zellij-load (⭐10)](https://github.com/Christian-Prather/zellij-load) show system resources such as CPU, memory and GPU usage. Similar to [tmux cpu-usage](https://github.com/dracula/tmux/blob/master/docs/CONFIG.md#cpu-usage---up)
 * [zellij-what-time (⭐16)](https://github.com/pirafrank/zellij-what-time) shows host system date and/or time in the status bar. Inspired by zellij-datetime
 * [zjstatus (⭐1k)](https://github.com/dj95/zjstatus) a configurable, themeable statusbar plugin
 * [zjstatus-hints (⭐82)](https://github.com/b0o/zjstatus-hints) adds mode-aware key binding hints to zjstatus
-* [zj-radar (⭐5)](https://github.com/marktoda/zj-radar) a pinned sidebar showing which AI agents (Claude Code, Codex) are working, done, or waiting for you across all tabs, with click-to-jump
 * [zj-status-bar (⭐35)](https://github.com/cristiand391/zj-status-bar) an opinionated fork of the compact-bar plugin
 
 ## UI & Modes
@@ -84,6 +81,15 @@ All the resources listed are community-driven: we cannot offer support but sugge
 * [zellij-send-keys (⭐21)](https://github.com/atani/zellij-send-keys) send text/commands to specific panes like tmux send-keys
 * [zj-quit (⭐45)](https://github.com/cristiand391/zj-quit) a friendly `quit` plugin for zellij
 
+## Coding Agent Management
+
+* [captain-miao (⭐0)](https://github.com/hyperlogue/captain-miao) TUI to monitor and organize multiple AI coding sessions in zellij, through `zellij action`.
+* [showy-quota (⭐15)](https://github.com/enieuwy/showy-quota) a standalone WASM status bar plugin showing live AI coding-plan quotas (Codex, Claude, Copilot, Gemini…), driven by CodexBar
+* [opencode-zellij-namer (⭐65)](https://github.com/24601/opencode-zellij-namer) AI-powered dynamic session naming for [OpenCode](https://opencode.ai), automatically renames sessions based on project context
+* [zellaude (⭐105)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
+* [zj-agents (⭐2)](https://github.com/kaankoken/zj-agents) background engine + floating sidebar: classify coding-agent panes (Idle/Working/Blocked/Done) from process + viewport manifests, desktop notifications; Claude, Codex, Grok, Pi, OMP
+* [zj-radar (⭐18)](https://github.com/marktoda/zj-radar) a pinned sidebar showing which AI agents (Claude Code, Codex) are working, done, or waiting for you across all tabs, with click-to-jump
+
 ## External Tools
 
 * [gitpod.zellij (⭐9)](https://github.com/gitpod-samples/gitpod.zellij) Zellij plugin for Gitpod, with .gitpod.yml tasks integration
@@ -100,7 +106,6 @@ All the resources listed are community-driven: we cannot offer support but sugge
 # Integrations
 
 * [fzf-zellij (⭐15)](https://github.com/k-kuroguro/fzf-zellij) Shell script to start fzf in a Zellij floating pane.
-* [opencode-zellij-namer (⭐60)](https://github.com/24601/opencode-zellij-namer) AI-powered dynamic session naming for [OpenCode](https://opencode.ai), automatically renames sessions based on project context
 * [theylix](https://codeberg.org/hobgoblina/theylix) Zellij, Helix, and various cli tools ([Yazi (⭐40k)](https://github.com/sxyazi/yazi), [Lazygit (⭐80k)](https://github.com/jesseduffield/lazygit), [LazySQL (⭐4.1k)](https://github.com/jorgerojas26/lazysql), [Slumber (⭐1.2k)](https://github.com/LucasPickering/slumber), [Serpl (⭐851)](https://github.com/yassinebridi/serpl), `git blame` via [Tig (⭐13k)](https://github.com/jonas/tig)) as a zen-mode IDE
 * [yazelix (⭐1.1k)](https://github.com/luccahuguet/yazelix) zellij, yazi and nushell adding a File Tree to Helix & helix-friendly keybindigs for zellij!
 * [zeco (⭐75)](https://github.com/julianbuettner/zeco) Share your zellij session over the internet, easy and secure!
@@ -109,7 +114,6 @@ All the resources listed are community-driven: we cannot offer support but sugge
 * [zellix (⭐50)](https://github.com/TheEmeraldBee/zellix) A nushell wrapper over helix that leverages the power of zellij to turn it into a plugin system!
 * [zide (⭐329)](https://github.com/josephschmitt/zide) Zellij layouts + bash scripts to create an IDE-like file picker and editor workflow that works in any shell and with most any visual file pickers!
 * [zrw (⭐4)](https://github.com/ivoronin/zrw) run commands in Zellij panes, wait for completion, and propagate exit codes
-* [captain-miao (⭐0)](https://github.com/hyperlogue/captain-miao) TUI to monitor and organize multiple AI coding sessions in zellij, through `zellij action`.
   
 # Tutorials
 
