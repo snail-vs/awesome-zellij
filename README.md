@@ -37,13 +37,13 @@ All the resources listed are community-driven: we cannot offer support but sugge
 
 ## Status Bar
 
-* [zellij-cb (⭐49)](https://github.com/ndavd/zellij-cb) a customizable compact bar for Zellij
-* [zellij-datetime (⭐51)](https://github.com/h1romas4/zellij-datetime) adds a date and time pane to your Zellij
+* [zellij-cb (⭐50)](https://github.com/ndavd/zellij-cb) a customizable compact bar for Zellij
+* [zellij-datetime (⭐52)](https://github.com/h1romas4/zellij-datetime) adds a date and time pane to your Zellij
 * [zellij-load (⭐10)](https://github.com/Christian-Prather/zellij-load) show system resources such as CPU, memory and GPU usage. Similar to [tmux cpu-usage](https://github.com/dracula/tmux/blob/master/docs/CONFIG.md#cpu-usage---up)
 * [zellij-what-time (⭐16)](https://github.com/pirafrank/zellij-what-time) shows host system date and/or time in the status bar. Inspired by zellij-datetime
 * [zjstatus (⭐1k)](https://github.com/dj95/zjstatus) a configurable, themeable statusbar plugin
-* [zjstatus-hints (⭐82)](https://github.com/b0o/zjstatus-hints) adds mode-aware key binding hints to zjstatus
-* [zj-status-bar (⭐35)](https://github.com/cristiand391/zj-status-bar) an opinionated fork of the compact-bar plugin
+* [zjstatus-hints (⭐84)](https://github.com/b0o/zjstatus-hints) adds mode-aware key binding hints to zjstatus
+* [zj-status-bar (⭐36)](https://github.com/cristiand391/zj-status-bar) an opinionated fork of the compact-bar plugin
 
 ## UI & Modes
 
@@ -87,6 +87,7 @@ All the resources listed are community-driven: we cannot offer support but sugge
 * [opencode-zellij-namer (⭐65)](https://github.com/24601/opencode-zellij-namer) AI-powered dynamic session naming for [OpenCode](https://opencode.ai), automatically renames sessions based on project context
 * [zellaude (⭐105)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
 * [zj-agents (⭐2)](https://github.com/kaankoken/zj-agents) background engine + floating sidebar: classify coding-agent panes (Idle/Working/Blocked/Done) from process + viewport manifests, desktop notifications; Claude, Codex, Grok, Pi, OMP
+* [zellij-ai-stats](https://github.com/ericviana/zellij-ai-stats) a themed powerline bar showing weekly quota usage and reset times for Claude Code and Codex, plus how many agent sessions are running
 * [zj-radar (⭐18)](https://github.com/marktoda/zj-radar) a pinned sidebar showing which AI agents (Claude Code, Codex) are working, done, or waiting for you across all tabs, with click-to-jump
 
 ## External Tools
