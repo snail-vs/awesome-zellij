@@ -85,9 +85,11 @@ All the resources listed are community-driven: we cannot offer support but sugge
 * [showy-quota (⭐15)](https://github.com/enieuwy/showy-quota) a standalone WASM status bar plugin showing live AI coding-plan quotas (Codex, Claude, Copilot, Gemini…), driven by CodexBar
 * [opencode-zellij-namer (⭐65)](https://github.com/24601/opencode-zellij-namer) AI-powered dynamic session naming for [OpenCode](https://opencode.ai), automatically renames sessions based on project context
 * [zellaude (⭐105)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
-* [zj-agents (⭐2)](https://github.com/kaankoken/zj-agents) background engine + floating sidebar: classify coding-agent panes (Idle/Working/Blocked/Done) from process + viewport manifests, desktop notifications; Claude, Codex, Grok, Pi, OMP
-* [zj-radar (⭐18)](https://github.com/marktoda/zj-radar) a pinned sidebar showing which AI agents (Claude Code, Codex) are working, done, or waiting for you across all tabs, with click-to-jump
 * [zellij-ai-session](https://github.com/snail-vs/zellij-ai-session) - Find, search and resume AI coding sessions (Codex, Claude Code, OpenCode etc.) by project directly inside Zellij.
+* [zellij-ai-stats](https://github.com/ericviana/zellij-ai-stats) a themed powerline bar showing weekly quota usage and reset times for Claude Code and Codex, plus how many agent sessions are running
+* [zj-agents (⭐2)](https://github.com/kaankoken/zj-agents) background engine + floating sidebar: classify coding-agent panes (Idle/Working/Blocked/Done) from process + viewport manifests, desktop notifications; Claude, Codex, Grok, Pi, OMP
+* [zj-agent-mob](https://github.com/mohseenrm/zj-agent-mob) a floating panel tracking Claude Code and Codex agents across every session: live status, current task, jump-to-pane across sessions, approve/reject permission prompts, and kill runaways
+* [zj-radar (⭐18)](https://github.com/marktoda/zj-radar) a pinned sidebar showing which AI agents (Claude Code, Codex) are working, done, or waiting for you across all tabs, with click-to-jump
 
 ## External Tools
 
@@ -105,7 +107,7 @@ All the resources listed are community-driven: we cannot offer support but sugge
 # Integrations
 
 * [fzf-zellij (⭐15)](https://github.com/k-kuroguro/fzf-zellij) Shell script to start fzf in a Zellij floating pane.
-* [theylix](https://codeberg.org/hobgoblina/theylix) Zellij, Helix, and various cli tools ([Yazi](https://github.com/sxyazi/yazi), [Lazygit](https://github.com/jesseduffield/lazygit), [LazySQL](https://github.com/jorgerojas26/lazysql), [Slumber](https://github.com/LucasPickering/slumber), [Serpl](https://github.com/yassinebridi/serpl), `git blame` via [Tig](https://github.com/jonas/tig)) as a zen-mode IDE
+* [theylix](https://codeberg.org/hobgoblina/theylix) Zellij, Helix, and various cli tools ([Yazi (⭐40k)](https://github.com/sxyazi/yazi), [Lazygit (⭐80k)](https://github.com/jesseduffield/lazygit), [LazySQL (⭐4.1k)](https://github.com/jorgerojas26/lazysql), [Slumber (⭐1.2k)](https://github.com/LucasPickering/slumber), [Serpl (⭐851)](https://github.com/yassinebridi/serpl), `git blame` via [Tig (⭐13k)](https://github.com/jonas/tig)) as a zen-mode IDE
 * [yazelix (⭐1.1k)](https://github.com/luccahuguet/yazelix) zellij, yazi and nushell adding a File Tree to Helix & helix-friendly keybindigs for zellij!
 * [zeco (⭐75)](https://github.com/julianbuettner/zeco) Share your zellij session over the internet, easy and secure!
 * [zellij-sessionizer (⭐48)](https://github.com/victor-falcon/zellij-sessionizer) A fuzzy finder-powered project switcher for Zellij sessions, inspired by [ThePrimeagen/tmux-sessionizer (⭐455)](https://github.com/ThePrimeagen/tmux-sessionizer)
